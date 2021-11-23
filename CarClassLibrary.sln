@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarClassLibrary", "CarClassLibrary.csproj", "{9343C4FE-21AB-4BCC-89CB-111EEA3D3951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarConsoleApp", "..\CarConsoleApp\CarConsoleApp.csproj", "{87FF030F-E058-49B4-AED4-55794A0653EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9343C4FE-21AB-4BCC-89CB-111EEA3D3951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9343C4FE-21AB-4BCC-89CB-111EEA3D3951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9343C4FE-21AB-4BCC-89CB-111EEA3D3951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9343C4FE-21AB-4BCC-89CB-111EEA3D3951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87FF030F-E058-49B4-AED4-55794A0653EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FF030F-E058-49B4-AED4-55794A0653EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FF030F-E058-49B4-AED4-55794A0653EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FF030F-E058-49B4-AED4-55794A0653EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78890345-B2DD-481F-B094-686F0B47783D}
+	EndGlobalSection
+EndGlobal
